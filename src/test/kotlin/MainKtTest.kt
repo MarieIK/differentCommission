@@ -107,6 +107,6 @@ class MainKtTest {
 
         val result = calculateTotalCommission(typeCard, amountTransfer, transactionCurrentMonth)
 
-        assertEquals("Неверные данн", result)
+        assertEquals("Неверные данные", result)
     }
 }
